@@ -18,7 +18,7 @@ namespace financiera.dominio
             {
             }
         }
-
+        
         public int Saldo
         {
             get
